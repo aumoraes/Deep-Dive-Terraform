@@ -10,7 +10,7 @@ variable "projectcode" {
 }
 
 variable "region" {
-  default = "us-east-1"
+  default = "sa-east-1"
 }
 
 variable "tablename" {}
